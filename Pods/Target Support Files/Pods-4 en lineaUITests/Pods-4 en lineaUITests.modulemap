@@ -1,0 +1,6 @@
+framework module Pods_4_en_lineaUITests {
+  umbrella header "Pods-4 en lineaUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
